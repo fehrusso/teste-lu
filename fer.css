@@ -1,0 +1,26 @@
+/* background color */
+
+.navbar .mainmenu {
+	background: #77D3B4;
+}
+
+.header.bar {
+	box-shadow: 0 0 5px #666;
+	background: #77D3B4;
+}
+
+.navbar .mainmenu a.item-menu-level0 {
+	line-height: 30px;
+	padding: 2px 12px;
+	font-size: 12px;
+	font-family: sans-serif,arial, helvetica;
+}
+
+li.active a.item-menu-level0 {
+	 background-color: #64a9c9;
+}
+
+.logo-natal {
+	background-image: url("tricae_logo.png");
+	background-size: contain;
+}
